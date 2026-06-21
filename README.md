@@ -1,6 +1,6 @@
 # 🚀 Codex Gaming Bookmarklets
 
-A massive collection of fun, prank, gaming, media, privacy, design, and developer bookmarklets. Instantly unlock desktop tools, mini-games, productivity features, and browser customization tricks on any website.
+A massive collection of fun, prank, gaming, media, privacy, design, and developer bookmarklets. Instantly unlock desktop tools, mini-games, productivity features, and browser customization tricks on any website.  https://codexjavascripts.github.io/codexbookmarklets/
 
 ## 🔗 Quick Navigation
 * [✨ Fun](#-fun)
