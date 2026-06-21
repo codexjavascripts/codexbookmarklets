@@ -1,6 +1,6 @@
 # 🚀 Codex Gaming Bookmarklets
 
-A massive collection of fun, prank, gaming, media, privacy, design, and developer bookmarklets. Instantly unlock desktop tools, mini-games, productivity features, and browser customization tricks on any website.  https://codexjavascripts.github.io/codexbookmarklets/
+A massive collection of fun, prank, gaming, media, privacy, design, and developer bookmarklets. Instantly unlock desktop tools, mini-games, productivity features, and browser customization tricks on any website.  
 
 ## 🔗 Quick Navigation
 * [✨ Fun](#-fun)
@@ -42,7 +42,7 @@ A massive collection of fun, prank, gaming, media, privacy, design, and develope
 
 ### 🚀 How to Install
 1. Make sure your browser's **Bookmarks Bar** is visible (`Ctrl+Shift+B` or `Cmd+Shift+B`).
-2. Visit [https://codexjavascripts.github.io/codexgamingbookmarklets/](https://codexjavascripts.github.io/codexgamingbookmarklets/).
+2. Visit [ https://codexjavascripts.github.io/codexbookmarklets/).
 3. Drag any button from the website directly onto your bookmarks bar.
 4. Navigate to any website you want to target and click the bookmarklet to run it!
 
