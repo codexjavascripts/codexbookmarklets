@@ -1,4 +1,4 @@
-⚡ Codex Gaming Bookmarklets
+**⚡ Codex Gaming Bookmarklets
 GitHub Pages License Language
 
 A massive collection of fun, prank, gaming, media, privacy, design, and developer bookmarklets. Instantly unlock desktop tools, mini-games, productivity features, and browser customization tricks on any website.
@@ -149,4 +149,4 @@ Icon	Name	Description
 📄 License
 Distributed under the MIT License. See LICENSE for more details.
 
-© 2026 Codex Gaming Portal. High-performance browser scripts.
+© 2026 Codex Gaming Portal. High-performance browser scripts.**
