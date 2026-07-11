@@ -1,0 +1,1 @@
+javascript:(()=>{let c=document.createElement('div');c.textContent='🐈🌈';c.style='position:fixed;font-size:48px;left:-200px;top:20%;z-index:999999';document.body.appendChild(c);let x=-200;setInterval(()=>{x+=8;c.style.left=x+'px';if(x>innerWidth+200)x=-200;},16);})();
