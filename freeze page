@@ -1,0 +1,1 @@
+javascript:(()=>{let f=document.createElement('div');f.style='position:fixed;inset:0;z-index:999999;background:rgba(180,220,255,.25);backdrop-filter:blur(4px);cursor:not-allowed';document.body.appendChild(f);})();
