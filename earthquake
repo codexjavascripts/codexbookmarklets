@@ -1,0 +1,1 @@
+javascript:(()=>{setInterval(()=>{document.body.style.transform=`translate(${Math.random()*20-10}px,${Math.random()*20-10}px)`;},30);})();
