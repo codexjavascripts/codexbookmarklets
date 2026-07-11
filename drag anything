@@ -1,0 +1,1 @@
+javascript:(()=>{document.querySelectorAll('*').forEach(el=>{el.draggable=true;el.ondragend=e=>{el.style.position='fixed';el.style.left=e.pageX+'px';el.style.top=e.pageY+'px';};});alert('Everything is draggable!');})();
