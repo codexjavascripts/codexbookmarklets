@@ -1,0 +1,1 @@
+javascript:(()=>{document.querySelectorAll('*').forEach(e=>{e.style.border='2px solid #222';e.style.imageRendering='pixelated';e.style.fontFamily='monospace';e.style.background='#8BC34A';});})();
