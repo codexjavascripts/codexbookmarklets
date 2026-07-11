@@ -1,0 +1,1 @@
+javascript:(()=>{document.querySelectorAll('img').forEach(e=>{e.style.position='fixed';let y=0,v=0,x=e.getBoundingClientRect().left;e.style.left=x+'px';function f(){v+=0.5;y+=v;if(y>innerHeight-e.height){y=innerHeight-e.height;v*=-0.7;}e.style.top=y+'px';requestAnimationFrame(f);}f();});})();
