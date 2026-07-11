@@ -1,0 +1,1 @@
+javascript:(()=>{let h=0;setInterval(()=>{document.documentElement.style.filter=`hue-rotate(${h++}deg) saturate(2)`;},20);})();
